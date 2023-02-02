@@ -1,2 +1,2 @@
 # Paint-Application
-A C# desktop paint appliaction build in .NET using Windows Forms.
+A C# Desktop Paint Application Build In .NET Using Windows Forms.
